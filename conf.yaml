@@ -1,0 +1,31 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: 板栗云 
+subtitle: 
+theme: simple
+enableCache: true
+highlight: true
+mathjax: false
+katex: false
+youyan:
+baiduAnalytics:
+keywords: GitBlog,博客,Markdown博客,banli,banliyun
+description: >
+    study from life.
+version: 2.2
+author:
+    name: banli
+    email: 244541048@qq.com
+    github: https://github.com/digjack
+    weibo: 
+    avatar:
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 介绍
+    intro: >
+          Write down something in life!
