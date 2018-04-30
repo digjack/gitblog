@@ -9,7 +9,7 @@ highlight: true
 mathjax: false
 katex: false
 youyan:
-baiduAnalytics:
+baiduAnalytics: 4ad13d7eacbc491283e4a616ff549aaf
 keywords: GitBlog,博客,Markdown博客,banli,banliyun
 description: >
     study from life.
