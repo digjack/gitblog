@@ -3,7 +3,7 @@
 url: /
 title: 板栗云 
 subtitle: 
-theme: simple
+theme: quest 
 enableCache: true
 highlight: true
 mathjax: false
